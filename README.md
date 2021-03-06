@@ -19,7 +19,7 @@ Detector using the following algorithms:
 - Ros kinetic
 ```
 ### Input
-- usb_cam/image_raw/compressed provide **waypoint** of lane.
+- usb_cam/image_raw/compressed
 
 ### How to use
 go to your workspace `src` dir, clone this package
