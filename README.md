@@ -27,5 +27,5 @@ go to your workspace `src` dir, clone this package
 git clone https://github.com/Epsilon8854/RANSAC_based_lane_dection.git
 ```
 ### Video
-[![LaneFollowing](https://img.youtube.com/j_zlAQcO9JQ/0.jpg)](https://youtu.be/j_zlAQcO9JQ)
+[![LaneFollowing](https://img.youtube.com/vi/j_zlAQcO9JQ/0.jpg)](https://youtu.be/j_zlAQcO9JQ)
 
