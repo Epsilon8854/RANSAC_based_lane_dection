@@ -2,7 +2,7 @@
 
 ---
 ## Overview
-The **RANSAC_based_lane_detection** detects lanes in the images which were received from the vehicle and creates a waypoint for the vehicle.If there is more than one lane detection result, the package provides a waypoint. If it does not find a lane, it does not provide a waypoint.
+The **RANSAC_based_lane_detection** detects lanes in the images which it receives from the vehicle and creates a waypoint for the vehicle. If there is more than one lane detection result, the package provides a waypoint. If it does not find a lane, it does not provide a waypoint.
 
 ![](https://imgur.com/2yoQeIb.gif)
 
@@ -27,6 +27,6 @@ go to your workspace `src` dir, clone this package
 ```
 git clone https://github.com/Epsilon8854/RANSAC_based_lane_dection.git
 ```
-### Video
+### Video(click the image)
 [![LaneFollowing](https://img.youtube.com/vi/j_zlAQcO9JQ/0.jpg)](https://youtu.be/j_zlAQcO9JQ)
 
