@@ -2,7 +2,8 @@
 
 ---
 ## Overview
-The **RANSAC_based_lane_dection** detect lanes in the images received from the vehicle and creates a waypoint for the vehicle.If there is more than one lane detection result, the package provides a waypoint, and if it does not find a lane, it does not provide a waypoint.
+The **RANSAC_based_lane_detection** detects lanes in the images which were received from the vehicle and creates a waypoint for the vehicle.If there is more than one lane detection result, the package provides a waypoint. If it does not find a lane, it does not provide a waypoint.
+
 ![](https://imgur.com/2yoQeIb.gif)
 
 Detector using the following algorithms:
